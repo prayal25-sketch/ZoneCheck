@@ -336,7 +336,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- **Priyanshi Raj** - Initial work
+- **Priyanshi shah** - Initial work
 
 ## 📞 Support
 
